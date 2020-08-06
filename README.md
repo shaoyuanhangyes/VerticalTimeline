@@ -6,4 +6,4 @@
 
 效果图如下
 
-![效果图](sketch_display.png)
+![效果图](https://github.com/shaoyuanhangyes/VerticalTimeline/blob/master/images/sketch_display.png)
