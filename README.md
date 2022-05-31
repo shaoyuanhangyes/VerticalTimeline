@@ -122,4 +122,8 @@ The Other World
 Mors un-known
 
 
-### 
+### 恶魔
+
+#### 火焰恶魔 
+
+炼狱火山内部存在的沉睡恶魔
