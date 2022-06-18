@@ -23,6 +23,9 @@ The Other World
     十魔剑
     Hunters Leader(奈芙蒂斯Nephthys)
 
+Character: 
+ 沐璇 森林守卫者 为寻找暗裔踏上复仇之路
+ 锋
 
 地区:
  炼狱火山 
