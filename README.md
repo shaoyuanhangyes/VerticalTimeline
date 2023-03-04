@@ -27,8 +27,8 @@ The Other World
     Hunters Leader(奈芙蒂斯Nephthys)
 
 Character: 
- 沐璇 森林守卫者 为寻找暗裔踏上复仇之路
- 锋
+ 沐璇 女 森林守卫者 为寻找暗裔踏上复仇之路
+ 锋 男 帝国学院学生 
 
 著名武器:
  液体金属幻变感的巨剑
